@@ -1,0 +1,334 @@
+body{
+    margin: 0;
+    font-family:  Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+
+.header{
+
+width: 100%;
+height: 90px;
+background-color: #128c7f;
+margin-bottom:50px;
+}
+.head-section{
+    width: 1060px;
+    height: 45px;
+    display: inline-block;
+       margin-left: 150px;
+       margin-top: 25px;
+
+}
+.logo{
+    display: inline;
+    cursor: pointer;
+    float: left;
+
+}
+h5{
+    color: #ffff;
+        margin: 0px;
+        margin-left: 55px;
+        display: inline-block;
+        font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 26px;
+        cursor: pointer;
+}
+
+.header-text{
+        width: 744px;
+        height: 26px;
+        display: inline-block;
+        padding: 10px;
+        padding-left: 35px;
+}
+.globe-div{
+    width: 100px;
+        height: 40px;
+        display: inline-block;
+}
+.globe{
+    display: inline;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+.EN-text{
+    display: inline-block;
+    margin-left: 0px !important;
+}
+.icon{
+    color: #ffff;
+}
+.secdv{
+width: 775px;
+    margin-left: 280px;
+    height: 615px;
+    
+    display:flex;
+
+}
+.inside-div-left{
+    width: 400px;
+    height: 100px;
+   
+        margin-left: 10px;
+            margin-top: 75px;
+        
+}
+.text-content{
+    line-height: 37px;
+        font-weight: 400;
+        font-size: 33px;
+}
+.text-mini{
+    font-size: 19px;
+        line-height: 24px;
+        color: #45301f;
+}
+.text-last{
+    color: #7e7b7a;
+    font-size: 18px;
+}
+.android{
+    width: 20px;
+    height: 20px;
+    margin-top: 35px;
+}
+.text-android{
+    color: #1bb39a;
+        font-size: 23px;
+        margin-left: 20px;
+        
+}
+.text-apple {
+    color: #1bb39a;
+    font-size: 23px;
+    margin-left: 20px;
+
+}
+.ul-text{
+    list-style: none;
+}
+.ul-text-apple{
+    margin-left: 6px;
+        list-style: none;
+            margin-top: 13px;
+    
+    
+}
+.apple-icon{
+    color:#1bb39a ;
+}
+.icon-desktop{
+    color: #1bb39a;;
+}
+.text-desktop{
+color: #1bb39a;
+    font-size: 23px;
+    margin-left: 20px;
+}
+.desktop{
+    margin-left: 6px;
+    list-style: none;
+    margin-top: 13px;
+}
+
+
+.img-chat{
+    width: 300px;
+        margin-left: 65px;
+}
+.section2-main{
+ display: flex;
+}
+.section-2{
+background-color:#d8e7ea;
+    width: 657px;
+    height: 915px;
+    
+}
+.st2-heading{
+    margin-left: 129px;
+    padding-top: 90px;
+    font-size: 34px;
+    line-height: 44px;
+}
+.set2-div{
+    width: 526px;
+    height: 166px;
+    margin-left:65px;
+}
+.st2-content{
+    font-size: 18px;
+        line-height: 27px;
+        text-align: center;
+}
+.set3-div{
+    width: 526px;
+     height: 180px;
+    margin-left:65px;
+   
+}
+.bussiness-text{
+    color: #39b3ed;
+    text-decoration: none;
+    cursor: pointer;
+}
+.api-text{
+    color: #39b3ed;
+        text-decoration: none;
+        cursor: pointer;
+}
+
+.img-div-bussiness{
+    width: 355px;
+    height: 369px;
+    
+    margin-left: 145px; 
+}
+.chat-bs-img{
+    width: 357px;
+    height: 369px;
+}
+.section-3{
+    width: 657px;
+    height: 915px;
+     margin-left: 35px;
+     background-color: #e6f0e5;
+
+}
+.div-round{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    background-color: #77d7c8;
+    margin-left:158px;
+    margin-top:75px ;
+}
+
+.hello-smile{
+        width: 113px;
+        height: 150px;
+        margin-top: 103px;
+        color: #128c7f;
+        margin-left: 120px;
+} 
+.sct3-head{
+   text-align: center;
+    color: #5E5E5E;
+    margin-top: 60px;
+    opacity: 0.7;
+        font-size: 16px;
+            letter-spacing: 2px;
+            
+}     
+.security-text{
+    font-size: 34px;
+    line-height: 44px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom:30px;
+        
+}
+.section3-content{
+    width: 526px;
+    height: 192px;
+    
+        margin-left: 65px;
+    
+}
+.content-sectioc{
+    text-align: center;
+    font-size: 18px;
+    line-height: 26px;
+}
+.blank-box{
+    width: 1349px;
+    height: 55px;
+    
+}
+.box-box{
+    width: 1349px;
+        height: 55px;
+  
+        display: flex;
+
+}
+.box{
+width: 214px;
+    height: 55px;
+    border-radius: 50px;
+    border-color: #128c7f;
+    border-style: solid;
+    margin-left: 560px;
+    
+    
+}
+.box-text{
+    color: #128c7f;
+    text-align: center;
+    
+}
+.blank-box2 {
+    width: 1349px;
+    height: 80px;
+
+}
+.footer{
+    width: 100%;
+    height: 335px;
+    background-color: #273444;
+    display: flex;
+   
+
+}
+.ft-inside-div{
+
+  width: 1309px;
+  height: 229px;
+display: flex;
+  
+  margin-left: 18px;
+}
+.ft-inside-div2 {
+
+    width: 1309px;
+    height: 229px;
+    display: flow-root;
+
+    margin-left: 18px;
+}
+ft-inside-div3 {
+
+    width: 1309px;
+    height: 229px;
+    display: inline-flexbox;
+
+    
+}
+
+.whatspp-ft{
+    width: 262px;
+    height: 229px;
+margin-left: 115px;
+
+
+
+}
+.ft-head{
+   
+        color: white;
+       
+        padding-bottom: 0px;
+}
+h4{
+    padding-top: 8px;
+    color: #ffff;
+    line-height: 4px;
+    font-weight: 400;
+}
